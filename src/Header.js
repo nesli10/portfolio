@@ -16,6 +16,11 @@ function Header() {
             DENEYİMLER
           </Link>
         </Menu.Item>
+        <Menu.Item className="navbaritem">
+          <Link className="navbarlink" to="/proje">
+            PROJELER
+          </Link>
+        </Menu.Item>
       </Menu>
     </div>
   );

@@ -141,6 +141,34 @@
     font-size: 30px;
   }
 }
+.expContainer{
+  width: 100%;
+  height: calc(150vh - 200px);
+  background-color: #f98cc2;
+}
+.expElements{
+  padding: 15px;
+  width: 70%;
+  margin: auto;
+}
+.expElements ol{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.expElements ol li{
+  margin: 15px;
+  text-align: center;
+  list-style-type: none;
+  letter-spacing: 1.5px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: #f0f0f0;
+}
+.expElements ol li svg{
+  font-size: 30px;
+  color: #070708;
+}
  
     
     

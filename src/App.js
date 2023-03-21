@@ -3,6 +3,7 @@ import React from "react";
 import Home from "./Home";
 import { Routes, Route } from "react-router-dom";
 import Deneyim from "./Deneyim";
+import Proje from "./Proje";
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />}></Route>
         <Route path="/deneyim" element={<Deneyim />}></Route>
+        <Route path="/proje" element={<Proje />}></Route>
       </Routes>
     </div>
   );

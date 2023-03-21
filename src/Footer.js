@@ -26,7 +26,7 @@ function Footer() {
           <Button
             className="iconbtn"
             type="link"
-            href=""
+            href="mailto:nestay2001@gmail.com"
             icon={<MailOutlined />}
           />
         </div>
