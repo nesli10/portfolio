@@ -169,6 +169,30 @@
   font-size: 30px;
   color: #070708;
 }
+.site-card-wrapper{
+  display: flex;
+  flex-wrap: wrap ;
+  margin:70px;
+  justify-content: center;
+  overflow: hidden;
+  }
+  .card1{
+    margin: 30px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 450px;
+    }
+    .anasayfafoto{
+      border-radius: 10px !important;
+      width: 450px ;
+    }
+    .anasayfafotobaslik{
+     display: flex;
+     justify-content: center ;
+    }
+    .projeler{
+      background-color: #f98cc2;
+    }
  
     
     
