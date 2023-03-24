@@ -30,7 +30,7 @@ function Proje() {
     },
     {
       name: "kamp sitesi",
-      imgSrc: "img/dizisite.png",
+      imgSrc: "img/kampsite.png",
       link: "https://github.com/nesli10/kampsite",
     },
     {
